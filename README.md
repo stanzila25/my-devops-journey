@@ -1,14 +1,16 @@
 # My DevOps Journey
 
-welcome to my first DevOps project!
+Welcome to my DevOps learning journal!
+This repository showcases my hands-on practice in:
 
-This repository is a structured showcase of my learning in:
-- ✅ Linux Basics (linux-basics/)
-- ✅ Networking Fundamentals (networking-fundamentals/)
-- ✅ DevOps Tools Overview (devops-tools-overview/)
+- ✅ **Linux Basics** ('linux-basics/')
+- ✅ **Networking Fundamentals** ('networking-fundamentals/')
+- ✅ **DevOps Tools Overview** ('devops-tools-overview/')
 
-- I'm currently learning DevOps step by step and updating this repo as I go.
-Stay tuned for shell scripts, Docker examples, and CI/CD workflows! 🌱
+- I'm currently exploring shell scripting, Docker, Git, and CI/CD step-by-step.
+  
+📌stay tuned for updated-new projects and scripts coming soon!🌱
 
-📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/er-tanzeela-nausheen-5a1447224)
+**Connect with me on LinkedIN**
+[Er.Tanzeela Nausheen](https://www.linkedin.com/in/er-tanzeela-nausheen-5a1447224)
 
